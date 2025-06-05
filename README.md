@@ -7,10 +7,9 @@
   <img src="https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=flat-square" alt="Contributions">
 </div>
 
-# Project Name
- Yapay Zeka Destekli Siber Güvenlik Teknikleri
-
- Yapay zeka destekli siber güvenlik teknikleriyle ilgilidir.
+## Yapay Zeka Destekli Siber Güvenlik Teknikleri
+ 
+Yapay zeka destekli siber güvenlik teknikleriyle ilgilidir.
 
 ---
 
