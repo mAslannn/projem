@@ -16,19 +16,26 @@
 
 ## Features / *Özellikler*
 
-- Yapay Zeka Destekli Statik Analiz: Kötü amaçlı yazılım ikili dosyalarını görselleştirerek ve Büyük Dil Modelleri (LLM'ler) ile anlamsal ön işleme yaparak gizlenmiş tehditleri kod çalışmadan önce tespit eder.
+- * Yapay Zeka Destekli Statik Analiz: 
+Kötü amaçlı yazılım ikili dosyalarını görselleştirerek ve Büyük Dil Modelleri (LLM'ler) ile anlamsal ön işleme yaparak gizlenmiş tehditleri kod çalışmadan önce tespit eder.
    
-- Gelişmiş Dinamik Davranış İzleme: Kötü amaçlı yazılımları güvenli sanal ortamlarda gerçek zamanlı olarak çalıştırır, API çağrı dizilerini analiz eder ve davranışsal imzaları ortaya çıkarır.
+- * Gelişmiş Dinamik Davranış İzleme: 
+Kötü amaçlı yazılımları güvenli sanal ortamlarda gerçek zamanlı olarak çalıştırır, API çağrı dizilerini analiz eder ve davranışsal imzaları ortaya çıkarır.
    
-- Bellek Adli Bilişimi ve Dosyasız Tehdit Tespiti: Birleşik öğrenme yaklaşımlarını kullanarak bellekte çalışan veya dosyasız kötü amaçlı yazılımların izlerini tespit eder, gizliliği korurken ölçeklenebilir analiz sağlar.
+- * Bellek Adli Bilişimi ve Dosyasız Tehdit Tespiti: 
+Birleşik öğrenme yaklaşımlarını kullanarak bellekte çalışan veya dosyasız kötü amaçlı yazılımların izlerini tespit eder, gizliliği korurken ölçeklenebilir analiz sağlar.
    
-- Gizleme Giderme ve Anlamsal Anlama: Çizge Sinir Ağları (GNN'ler) ile fonksiyon seviyesi gizlemeyi tespit eder ve LLM'ler aracılığıyla montaj seviyesi kodun gizlemesini kaldırarak insan analistlere kodun gerçek amacını anlamalarında yardımcı olur.
+- * Gizleme Giderme ve Anlamsal Anlama: 
+Çizge Sinir Ağları (GNN'ler) ile fonksiyon seviyesi gizlemeyi tespit eder ve LLM'ler aracılığıyla montaj seviyesi kodun gizlemesini kaldırarak insan analistlere kodun gerçek amacını anlamalarında yardımcı olur.
    
-- Hibrit Analiz ve Otomasyon: Statik ve dinamik analizden elde edilen verileri birleştirerek kötü amaçlı yazılım davranışına dair kapsamlı bir görünüm sunar ve LLM'ler ile sandbox raporlarının otomatik özetlenmesini ve tespit kurallarının (YARA/Semgrep) oluşturulmasını sağlar.
+- * Hibrit Analiz ve Otomasyon: 
+Statik ve dinamik analizden elde edilen verileri birleştirerek kötü amaçlı yazılım davranışına dair kapsamlı bir görünüm sunar ve LLM'ler ile sandbox raporlarının otomatik özetlenmesini ve tespit kurallarının (YARA/Semgrep) oluşturulmasını sağlar.
    
-- Tehdit İstihbaratı Entegrasyonu: Yapay zeka ve makine öğrenimi tekniklerini Siber Tehdit İstihbaratı (CTI) ile entegre ederek tehdit tespiti ve olay çıkarımının doğruluğunu artırır, böylece proaktif savunma stratejilerini güçlendirir.
+- * Tehdit İstihbaratı Entegrasyonu: 
+Yapay zeka ve makine öğrenimi tekniklerini Siber Tehdit İstihbaratı (CTI) ile entegre ederek tehdit tespiti ve olay çıkarımının doğruluğunu artırır, böylece proaktif savunma stratejilerini güçlendirir.
    
-- Tam Sistem Emülasyonu: Siber menzillerde tam sistem emülasyonu sağlayarak kötü amaçlı yazılımın gerçekçi davranışlarını güvenli ve kontrollü bir ortamda gözlemlemeye ve test etmeye olanak tanır.
+- * Tam Sistem Emülasyonu: 
+Siber menzillerde tam sistem emülasyonu sağlayarak kötü amaçlı yazılımın gerçekçi davranışlarını güvenli ve kontrollü bir ortamda gözlemlemeye ve test etmeye olanak tanır.
 
 ---
 
