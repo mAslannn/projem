@@ -139,10 +139,8 @@ Mert Aslan (2320191009@stu.istinye.edu.tr)
 ## Contact / *İletişim* (Optional)
 
 Project Maintainer: [Mert Aslan/İstinye University] - [2320191009@stu.istinye.edu.tr]  
-Found a bug? Open an issue.  
+  
 
-*Proje Sorumlusu: [Adınız/Kuruluş Adınız] - [e-posta.adresiniz@ornek.com]. Hata bulursanız bir sorun bildirin.*
 
----
 
-*Replace placeholders (e.g., YOUR_USERNAME/YOUR_REPO) with your project details.*
+-
