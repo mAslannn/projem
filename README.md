@@ -42,7 +42,7 @@ Siber menzillerde tam sistem emülasyonu sağlayarak kötü amaçlı yazılımı
 ## Team / *Ekip*
 
 2320191009 Mert Aslan
----
+
 
 ## Roadmap / *Yol Haritası*
 
