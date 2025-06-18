@@ -12,7 +12,7 @@
  Malware Davranış Analiz Aracı
 
  Siber güvenlik savaşında bir adım önde olun. Yapay zeka destekli Malware Davranış Analiz Aracımız, statik ve dinamik analiz yeteneklerini birleştirerek en karmaşık kötü amaçlı yazılımları bile deşifre ediyor.
----
+
 
 ## Features / *Özellikler*
 
